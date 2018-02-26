@@ -8,7 +8,7 @@ namespace ExpressionDecompiler.Tests
         [Fact]
         public void Decompile()
         {
-
+            ICSharpCode.Decompiler.
         }
     }
 }
